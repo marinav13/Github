@@ -1,3 +1,3 @@
 # Github
  
-This is a sample repository.
+This is a _sample_ **repository**.
